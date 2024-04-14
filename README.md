@@ -9,19 +9,20 @@ This is my first repository and it is filled with all of my work and progress th
 First of all! this repository consists of two main folders they are `📁Python` and `📁Artificial Intelligence`.
 
 #### Directory Structure of this repo is as follows:
-<pre style="font-family: 'Consolas'; font-size: 15px; font-weight: bolder;">
+<pre pre style="font-family: 'Consolas'; font-size: 15px; font-weight: bolder;background-color: magenta; color: white;">
 📁Internship-All-Resources
- |---📁1. Python
- |      |- 📁Discussions
- |      |- 📁Exercises
- |      |- 📁Notes
- |      |- 📁Reports
  |
- --📁2. Artificial Intelligence
-      |- 📁Discussions
-      |- 📁Exercises
-      |- 📁Notes
-      |- 📁Reports
+ |---📁1. Python
+ |----|--📁Discussions
+ |----|--📁Exercises
+ |----|--📁Notes
+ |----|--📁Reports
+ |
+ |---📁2. Artificial Intelligence
+ |----|--📁Discussions
+ |----|--📁Exercises
+ |----|--📁Notes
+ |----|--📁Reports
 </pre>
 
 
