@@ -1,12 +1,17 @@
+<style>
+    body{
+        background-color: yellow;
+    }
+</style>
 # Internship-All-Resources
 
 ### Hi there! Nice to meet you.
 
 ### About this repository
-> This repository is filled with all of my work and progress that was made in the duration of internship. So I am so glad to see you here. If you find this repository useful please give it a start, ⭐ I appreciate your support.😊
+This is my first repository and it is filled with all of my work and progress that I made in the duration of my long term internship. So I am so glad to see you here. If you find this repository useful please give it a star-⭐, I would really appreciate your support.😊
 
-### Directory (folder structure of this repository)
-> First of all! this repository consists of two main folders they are `📁Python` and `📁Artificial Intelligence`.
+### Directory structure of this repository
+First of all! this repository consists of two main folders they are `📁Python` and `📁Artificial Intelligence`.
 
 #### Directory Structure of this repo is as follows:
 <pre style="font-family: 'Consolas'; font-size: 15px; font-weight: bolder;">
