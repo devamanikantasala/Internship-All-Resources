@@ -24,7 +24,7 @@ First of all! this repository consists of two main folders they are `📁Python`
       |- 📁Reports
 </pre>
 > [!IMPORTANT]
-> ##### 📁Python & 📁Artificial Intelligence
+> ##### 📁Python
 > This `directory/folder` holds our entire coursework done in Internship related to python and AI.
 It holds variours directories like:
 > - <B>📁 Discussions:</B> This directory holds all the screenshots of discussions that we made among in certain days during internship period.
