@@ -35,4 +35,4 @@ It holds variours directories like:
     - <B>📁 Institute Reports: </B> Similar to above directory this directory holds the reference reports that needed to submit to institute.
 
 #### Thank You!
-I really appreciate 😄, Your walkthrough and dedication for reading this. In case if you find any errors or corrections feel free to [💬DM me!](https://instagram.com/devamanikanta_sala). If it is good then please give it star and pin it in your account.
+I really appreciate 😄, Your walkthrough and dedication for reading this. In case if you find any errors or corrections feel free to [💬DM Me!](https://instagram.com/devamanikanta_sala) or [📧Mail Me!](devamanikantasala@outlook.com). If it is good then please give it star and pin it in your account.
