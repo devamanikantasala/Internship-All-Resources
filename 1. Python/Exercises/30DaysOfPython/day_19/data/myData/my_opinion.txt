@@ -1,0 +1,7 @@
+Hi! there, my name is S.deva manikanta, and I am thriving to learn python, and here I found a github repository. 
+Where this repository is called as '30-Days-Of-Python'. I have seen lots of courses but the approach of this course is beaten every 
+other course out there. This course provides a comprehensive walkthrough of various python topics and gives a very 
+modular content in a structure manner, so that the learner can easily learn maximum out of python in short span. 
+The best part of this course is they are provided very practical knowledge enhanceble exercise based on difficulty like  
+level-1, level-2, level-3, these exercises are so good, which nearly enhanced my practical coding skill. 
+I am very thankful to 'Asabeneh Yetayeh' for providing such a comprehensive repository for python. 
