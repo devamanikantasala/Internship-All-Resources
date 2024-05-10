@@ -21,16 +21,17 @@ def get_count_of_number_of_words(path):
 
 files = o.listdir(path);
 files.sort();
-dont_print_these = ['countries_data.json','email_exchanges_big.txt']
+dont_print_these = ['countries_data.json','email_exchanges_big.txt', 'stop_words.py', 'myData', '__pycache__', 'romeo_and_juliet.txt', 'hacker_news.csv']
 i = -1;
+index = 1
 while(i != 0):
     print('\nChoose which file you want insights:\n');
-    for index, file in enumerate(files):
+    for file in files:
         if file in dont_print_these:
-            index -= 1
             continue;
         else:
             print(f'{index}.\t{file}');
+            index += 1
     print('0.\tExit')
     i = int(input('Your choice: '));
     if(i == 1):
