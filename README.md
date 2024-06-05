@@ -17,6 +17,22 @@ First of all! this repository consists of one main folder `📁Python`.
  |----|--📁Exercises
  |----|--📁Notes
  |----|--📁Reports
+ |
+ |---📁Internship-Project
+ |----|--📁__pycache__
+ |----|--📁Lib
+ |----|--📁Scripts
+ |----|--📁static
+ |----|--📁templates
+ |----|--📁training_data
+ |----|--🗄️__init__.py
+ |----|--🗄️.gitignore
+ |----|--🗄️app.py
+ |----|--🗄️db.sqlite3 
+ |----|--🗄️pyvenv.cfg 
+ |----|--🗄️requirements.txt 
+ |----|--🗄️vortex_bot.py
+
 </pre>
 
 
